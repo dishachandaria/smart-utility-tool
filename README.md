@@ -12,10 +12,10 @@ Built using **React.js + Node.js + Express.js** and integrated with **Gemini AI*
 
 ## 📸 Demo
 
-![Dashboard](./src/assets/dashboard.png) 
-![Summarization Output](./src/assets/summarize.png)
-![Translation Output](./src/assets/translate.png)
-![Email Generator Output](./src/assets/email.png)
+![Dashboard](./frontend/src/assets/dashboard.png) 
+![Summarization Output](./frontend/src/assets/summarize.png)
+![Translation Output](./frontend/src/assets/translate.png)
+![Email Generator Output](./frontend/src/assets/email.png)
 ---
 
 ## ⚙️ Features
